@@ -1,0 +1,16 @@
+D:\Documents\Code\WeeklyCodingChallenge11.29\bin\Debug\net5.0\rps.exe
+D:\Documents\Code\WeeklyCodingChallenge11.29\bin\Debug\net5.0\rps.deps.json
+D:\Documents\Code\WeeklyCodingChallenge11.29\bin\Debug\net5.0\rps.runtimeconfig.json
+D:\Documents\Code\WeeklyCodingChallenge11.29\bin\Debug\net5.0\rps.runtimeconfig.dev.json
+D:\Documents\Code\WeeklyCodingChallenge11.29\bin\Debug\net5.0\rps.dll
+D:\Documents\Code\WeeklyCodingChallenge11.29\bin\Debug\net5.0\ref\rps.dll
+D:\Documents\Code\WeeklyCodingChallenge11.29\bin\Debug\net5.0\rps.pdb
+D:\Documents\Code\WeeklyCodingChallenge11.29\obj\Debug\net5.0\rps.csproj.AssemblyReference.cache
+D:\Documents\Code\WeeklyCodingChallenge11.29\obj\Debug\net5.0\rps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Code\WeeklyCodingChallenge11.29\obj\Debug\net5.0\rps.AssemblyInfoInputs.cache
+D:\Documents\Code\WeeklyCodingChallenge11.29\obj\Debug\net5.0\rps.AssemblyInfo.cs
+D:\Documents\Code\WeeklyCodingChallenge11.29\obj\Debug\net5.0\rps.csproj.CoreCompileInputs.cache
+D:\Documents\Code\WeeklyCodingChallenge11.29\obj\Debug\net5.0\rps.dll
+D:\Documents\Code\WeeklyCodingChallenge11.29\obj\Debug\net5.0\ref\rps.dll
+D:\Documents\Code\WeeklyCodingChallenge11.29\obj\Debug\net5.0\rps.pdb
+D:\Documents\Code\WeeklyCodingChallenge11.29\obj\Debug\net5.0\rps.genruntimeconfig.cache
